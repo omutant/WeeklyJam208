@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Prototypes/Scene transitions/Scene_Transitions_1.unity
+    guid: 8949750aea88b0944b5cffafcda6be29
+  - enabled: 1
+    path: Assets/Prototypes/2D movement/2D Movement_Scene.unity
+    guid: 5597c21d5911b6040962db98f07e244e
+  - enabled: 1
+    path: Assets/Prototypes/Scene transitions/Scene_Transitions_2.unity
+    guid: 67b6c744a26ee444c84890c35f31c290
   m_configObjects: {}
