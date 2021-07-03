@@ -6,12 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Prototypes/Scene transitions/Scene_Transitions_1.unity
-    guid: 8949750aea88b0944b5cffafcda6be29
+    path: Assets/Game/Levels/1_Green/1_Green.unity
+    guid: e2796d1f2773634488f56af00663352c
   - enabled: 1
-    path: Assets/Prototypes/2D movement/2D Movement_Scene.unity
-    guid: 5597c21d5911b6040962db98f07e244e
+    path: Assets/Game/Levels/2_Blue/2_Blue.unity
+    guid: af40d6e18ef38f141bbe1fbfea83563a
   - enabled: 1
-    path: Assets/Prototypes/Scene transitions/Scene_Transitions_2.unity
-    guid: 67b6c744a26ee444c84890c35f31c290
+    path: Assets/Game/Levels/3_Orange/3_Orange.unity
+    guid: a1ef2bfe9d6284d4ba7a205c85df15ba
+  - enabled: 1
+    path: Assets/Game/Levels/4_Purple/4_Purple.unity
+    guid: 2bfb85c841d18ae408b3bbc1939b491e
+  - enabled: 1
+    path: Assets/Game/Levels/5_Red/5_Red.unity
+    guid: 6a4060d67af115c4982fe63c5b424c06
+  - enabled: 1
+    path: Assets/Game/Levels/6_Yellow/6_Yellow.unity
+    guid: fa07915775330804e8fae2952a9f04a6
   m_configObjects: {}
